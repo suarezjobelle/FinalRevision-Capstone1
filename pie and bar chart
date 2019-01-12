@@ -1,0 +1,53 @@
+<div class="wrapper">
+  <h3>Event Analytics</h3>
+  <div class="pie-charts">
+    <div class="pieID--micro-skills pie-chart--wrapper">
+      <h2>Event 1</h2>
+      <div class="pie-chart">
+        <div class="pie-chart__pie"></div>
+        <ul class="pie-chart__legend">
+          <li><em>Positive Outcome</em><span>642</span></li>
+          <li><em>Negative Outcome</em><span>358</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="pieID--categories pie-chart--wrapper">
+      <h2>Event 2</h2>
+      <div class="pie-chart">
+        <div class="pie-chart__pie"></div>
+        <ul class="pie-chart__legend">
+          <li><em>Positive Outcome</em><span>768</span></li>
+          <li><em>Negative Outcome</em><span>232</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="pieID--operations pie-chart--wrapper">
+      <h2>Event 3 </h2>
+      <div class="pie-chart">
+        <div class="pie-chart__pie"></div>
+        <ul class="pie-chart__legend">
+          <li><em>Case 1</em><span>486</span></li>
+          <li><em>Analysis</em><span>156</span></li>
+          <li><em>Solution</em><span>215</span></li>
+          <li><em>Outcome</em><span>143</span></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="wrap">
+  <h1 class="pen-title">Event Summary</h1>
+  <!-- Begin Your Code -->
+  <section class="chart-wrapper">
+    <ul class="chart-horizontal">
+    
+      <li class="chart-bar" data-skill="50"><span class="chart-bar-label">Test Skill #5</span></li> <!--/.chart-bar-->
+      <li class="chart-bar" data-skill="60"><span class="chart-bar-label">Test Skill #6</span></li> <!--/.chart-bar-->
+      <li class="chart-bar" data-skill="70"><span class="chart-bar-label">Test Skill #7</span></li> <!--/.chart-bar-->
+      <li class="chart-bar" data-skill="80"><span class="chart-bar-label">Test Skill #8</span></li> <!--/.chart-bar-->
+      <li class="chart-bar" data-skill="90"><span class="chart-bar-label">Test Skill #9</span></li> <!--/.chart-bar-->
+      <li class="chart-bar" data-skill="100"><span class="chart-bar-label">Test Skill #10</span></li> <!--/.chart-bar-->
+    </ul> <!--/chart-horizontal-->
+  </section> <!--/.chart-wrapper-->
+  <!-- End Your Code -->
+</div><!-- .wrap -->

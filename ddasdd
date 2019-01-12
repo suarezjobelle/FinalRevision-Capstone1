@@ -1,0 +1,85 @@
+<div class="container">
+  <div class="row no-gutters">
+    <div class="col-12 col-sm-6 col-md-8">.col-12 .col-sm-6 .col-md-8</div>
+    <div class="col-6 col-md-4">.col-6 .col-md-4</div>
+  </div>
+</div>
+
+
+
+<div class="row ">
+    <!-- calendar -->
+  <div class="calendar-wrapper" >
+  <button id="btnPrev" type="button">Prev</button>
+    <button id="btnNext" type="button">Next</button>
+  <div id="divCal"></div>
+  </div>
+
+    <div class="col-lg">
+      <div class="list-group" style="float: right;width: 50%">
+ <a href="#!" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Janmar</h5> <b>IN</b>
+    </div>
+    <p class="mb-1">01/01/19 8:11 AM</p>
+  
+  </a>
+   
+   <a href="#!" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Ryan</h5> <b style="color:red">OUT</b>
+    </div>
+    <p class="mb-1">01/01/19 6:01 PM</p>
+  
+  </a>
+  <a href="#!" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Jobs</h5> <b>IN</b>
+    </div>
+    <p class="mb-1">01/01/19 8:01 AM</p>
+  </a>
+  <a href="#!" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Jonas</h5> <b>IN</b>
+    </div>
+    <p class="mb-1">01/01/19 8:21 AM</p>
+  </a>
+  <a href="#!" class="list-group-item list-group-item-action flex-column align-items-start">
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">Roger</h5> <b style="color:red">OUT</b>
+    </div>
+    <p class="mb-1">01/01/19 8:01 PM</p>
+  </a>
+</div>
+    </div>
+    
+        </div><!-- /row -->
+
+
+
+
+
+	        <div class="card-group">
+	 <div class="card mr-1">
+	    <div class="card-body">
+	      <h5 class="card-title">Announcement</h5>
+	      <p class="card-text">Don't forget to send you screen shots every 30mins</p>
+	      <p class="card-text"><small class="text-muted">Last updated 1 min ago</small></p>
+	    </div>
+	  </div>
+	  <div class="card mr-1">
+	    <div class="card-body">
+	      <h5 class="card-title">Meeting</h5>
+	      <p class="card-text">Organizational Meeting @1:30pm 01/21/19</p>
+	      <p class="card-text"><small class="text-muted">Last updated 10 mins ago</small></p>
+	    </div>
+	  </div>
+	  <div class="card">
+	  
+	    <div class="card-body">
+	      <h5 class="card-title">Birthday Celebrant</h5>
+	     <h3> Janmar Adolfo 01/01/19</h3>
+	     
+	    </div>
+	  </div>
+	</div>
